@@ -1,0 +1,15 @@
+C:\Users\Nguyen Quang Huy\area\bin\Debug\net7.0\area.exe
+C:\Users\Nguyen Quang Huy\area\bin\Debug\net7.0\area.deps.json
+C:\Users\Nguyen Quang Huy\area\bin\Debug\net7.0\area.runtimeconfig.json
+C:\Users\Nguyen Quang Huy\area\bin\Debug\net7.0\area.dll
+C:\Users\Nguyen Quang Huy\area\bin\Debug\net7.0\area.pdb
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.AssemblyInfo.cs
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.dll
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\refint\area.dll
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.pdb
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\area.genruntimeconfig.cache
+C:\Users\Nguyen Quang Huy\area\obj\Debug\net7.0\ref\area.dll
